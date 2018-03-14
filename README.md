@@ -1,3 +1,5 @@
+[![Dependency Status](https://gemnasium.com/badges/github.com/LINCnil/pia-back.svg)](https://gemnasium.com/github.com/LINCnil/pia-back)
+
 Getting started
 ===============
 
