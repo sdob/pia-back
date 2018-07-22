@@ -27,7 +27,7 @@ on Ubuntu you can use: [help.ubuntu.com/community/PostgreSQL](https://help.ubunt
 Also, you need to create a new user with password.
 
 ### Clone the repository
-`git clone https://github.com/atnos/pia-back.git`
+`git clone https://github.com/LINCnil/pia-back.git`
 
 ### Create and fill the file database.yml
 `cp config/database.example.yml config/database.yml`
